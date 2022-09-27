@@ -1,0 +1,45 @@
+
+
+.header{
+    text-align: center;
+    font-size: 25px;
+    border: solid black;
+    background-color: aliceblue;
+}
+
+.Faleconosco{
+    text-align: center;
+    font-size: 20px;    
+}
+
+.fildset1{
+    text-align: center;
+    width: 60%;
+    height: 250px;
+    margin-left: 20%;
+}
+
+.fildset2{
+    text-align: center;
+    width: 60%;
+    height: 200px;
+    margin-left: 20%;
+}
+
+.fildset3{
+    text-align: center;
+    width: 60%;
+    height: 400px;
+    margin-left: 20%;
+}
+
+
+.teste{
+    color: white;
+    
+}
+
+.img{
+    height: 150px;
+
+}
